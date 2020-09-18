@@ -1,0 +1,217 @@
+@media (max-width: 992px)  { 
+    .header .navbar {
+    background-color: black;
+    z-index: 2;
+    position: relative;
+    }
+        /* Slider */
+    .slider {
+    background-image: url(../Assets/img/landing-page.jpg);
+    width: 100%;
+    height: 1029px;
+    background-size: cover;
+    background-position: center;
+    margin-top: -120px;
+    }
+    .slider .slider-content {
+        margin-top: 250px;
+        text-align: center;
+        color: white;
+
+    }
+    .slider .slider-content h1{
+        font-size: 50px;
+        font-weight: bold;
+
+    }
+    .visual1 {
+        padding-top: 500px;
+        width:100%;
+        height:auto;
+    }
+    /*Class Ongkir */
+    .ongkir {
+        top: 1439px;
+        left: 140px;
+        width: 559px;
+        height: 430px;
+        margin-top:-300px ;
+        /* UI Properties */
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 10px 10px 12px #00000029;
+        border-radius: 70px;
+        opacity: 2;
+    }
+    .ongkir .palembang {
+        padding-top: 50px;
+        text-align: left;
+        font-family: Jubilat;
+        margin-left: 7px;
+        letter-spacing: 2px;
+        color: #150101;
+        opacity: 0.64;
+    }
+    .ongkir .hitung {
+        font-family: Jubilat Regular;
+        font-size: large;
+        margin-left: 7px;
+    }
+    .ongkir .dengan{
+        font-family: Jubilat Regular;
+        font-size: large;
+        margin-left: 7px;
+    }
+    .ongkir .form-control{
+        background-color: #fdfff4;
+        border-radius: 80px;
+        
+
+    }
+    .btn btn-outline-danger{
+        top: 2189px;
+        left: 195px;
+        width: 380px;
+        height: 69px;
+    }
+    
+    /*Class Lacak */
+
+    .lacak {
+        top: 1274px;
+        left: 1134px;
+        width: 400px;
+        height: 300px;
+        margin-top: -370px;
+        margin-left: 150px;
+        /* UI Properties */
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 10px 12px 12px #00000029;
+        border-radius: 70px;
+        opacity: 1;
+    }
+    .lacak .hitungongkos{
+        padding-top: 50px;
+        font-family: jubilat;
+        margin-left: 7px;
+        letter-spacing: 2px;
+        color: #150101;
+        opacity: 0.64;
+    }
+    .lacak .lacakkeberadaan{
+        font-family: jubilat;
+        margin-left: 7px;
+    }
+    .lacak .form-control {
+        background-color: #fdfff4;
+        border-radius: 70px;
+        width:280px;
+        height:38px;
+        
+    }
+    /*Class Our Service */
+    .Service .os{
+        font-family: Jubilat;
+        font-size: 33px;
+        margin-top: 150px;
+        text-align: center;
+    }
+    .Service .ly{
+        font-family: Jubilat;
+        font-size: 20px ;
+        text-align: center;
+    }
+    .Service .li{
+        top: 741px;
+        left: 76px;
+        width: 574px;
+        height: 6px;
+        /* UI Properties */
+        color: solid #707070;;
+        opacity: 8;
+    }
+
+    /* Class REG */
+    .regular .manriding{
+        height: 320px;
+        width: 80%;
+        margin-top: 150px;
+        margin-left: 70px;
+        
+
+    }
+    .regular1{
+        width: 80%;
+        height: 320px;
+        background: #F2CB05 0% 0% no-repeat padding-box;
+        box-shadow: 0px 18px 6px #00000029;
+        border-radius: 0px 63px 63px 0px;
+        opacity: 1;
+    }
+    .regular1 h1{
+        font-family: Jubilat;
+        margin-left: 190px;
+        padding-top: 50px;
+    }
+    .regular1 .commerce{
+        width : 60px;
+        height: 60px;
+        margin-left: 370px;
+        margin-top: 30px;
+    }
+    .regular1 h3{
+        font-family: Jubilat Semibold;
+        text-align: right;
+        margin-top: 10px;
+        margin-left: 38px;
+    }
+    .regular1 h6{
+        text-align: right;
+        font-family: Jubilat;
+        font-variant: normal;
+        margin-left: 38px;
+    }
+
+    /* Class YES */
+    .yess {
+        height: 340px;
+        width: 45%;
+        background: #433F29 0% 0% no-repeat padding-box;
+        box-shadow: 0px 18px 6px #00000029;
+        border-radius: 63px 0px 0px 63px;
+        opacity: 1;
+        /*margin-right: 70px;*/
+        margin-top: 250px;
+        /*margin-left: 330px; button*/
+        margin-left: 70px;
+        margin-right: -180px;
+    }
+    .yess h1{
+        font-family: Jubilat;
+        color:#ffff;
+        padding-top: 50px;
+        margin-left: 45px;
+    }
+    .yess .car{
+        width : 68px;
+        height: 68px;
+        margin-top: 45px;
+        margin-left: 25px;
+    }
+    .yess h3{
+        color: #FFFFFF;
+        font-family: Jubilat;
+        margin-left: 27px;
+    }
+    .yess h6{
+        color: #FFFFFF;
+        font-family: Jubilat;
+        margin-left: 27px;
+
+    }
+    .yess1  .toby{
+        height: 330px;
+        width: 86%;
+        margin-left: 520px;
+        margin-top: -600px;
+    }
+}
